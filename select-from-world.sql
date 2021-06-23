@@ -81,4 +81,14 @@ WHERE name NOT LIKE '% %'
   AND name LIKE '%i%'
   AND name LIKE '%o%'
   AND name LIKE '%u%'
-  
+
+-- 
+-- BBC QUIZ Answers
+
+-- 1 (e)
+-- 2 (d)
+-- 3 (b)
+-- 4 (d)
+-- 5 (b)
+-- 6 (d)
+-- 7 (c)
